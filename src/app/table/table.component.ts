@@ -8,5 +8,11 @@ import { Component, ElementRef, HostListener, OnInit, Renderer2 } from '@angular
 export class TableComponent implements OnInit {
   constructor() {}
 
-  ngOnInit() {}
+  ngOnInit() {
+
+
+
+
+
+  }
 }
